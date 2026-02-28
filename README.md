@@ -48,12 +48,12 @@
 ## Demo
 
 <p align="center">
-  <img src="dashboard/screenshot.png" width="80%" alt="Dashboard Preview"/>
+  <img src="dashboard/dashboard.png" width="80%" alt="Dashboard Preview"/>
   <br/>
   <em>Click the image to download the Excel file and try it yourself!</em>
 </p>
 
-**[Download the Excel Dashboard](dashboard/BankMarketing_Dashboard.xlsx)**  
+**[Download the Excel Dashboard](dashboard/Dash Board only.xlsx)**  
 
 ---
 
@@ -73,11 +73,12 @@
 ```bash
 bank-marketing-dashboard/
 ├── data/
-│ └── Bank After Analysis.csv # Cleaned dataset
+│ ├── Bank Before Analysis.csv  # Uncleaned
+│ └── Bank After Analysis.xlsx # Cleaned dataset
 ├── dashboard/
-│ ├── BankMarketing_Dashboard.xlsx
-│ └── screenshot.png
-└──README.md # You are here
+│ ├── Dash Board only.xlsx.xlsx
+│ └── dashboard.png
+└──README.md # You are here LOL , FeelFree Bro
 ```
 
 ---
