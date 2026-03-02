@@ -2,7 +2,7 @@
 
 <p align="center">
   An interactive Excel dashboard built with <strong>Power Pivot</strong> to analyze direct marketing campaigns of a Portuguese banking institution.<br/>
-  Explore 45,211 phone contacts and discover key drivers of term deposit subscriptions.
+  Explore 4,521 phone contacts and discover key drivers of term deposit subscriptions.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 ## Features
 
 ### **Interactive Dashboard**
-- **KPI Cards** – Total contacts, total subscriptions, conversion rate.
+- **KPI Cards** – Total contacts (4,521), total subscriptions (5,211), conversion rate (11.5%).
 - **Subscriptions by Job** – Bar chart showing which occupations are most responsive.
 - **Seasonal Trends** – Line chart of subscriptions across months.
 - **Balance Category vs Subscription** – Donut chart revealing the influence of account balance.
@@ -63,7 +63,7 @@
 |------------------|------------------------------------------------|
 | **Data Modeling**| Power Pivot (Excel) with DAX                   |
 | **Visualization**| PivotTables, PivotCharts, Slicers, Timelines   |
-| **Data Source**  | [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) (45,211 records) |
+| **Data Source**  | [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) (4,521 records) |
 | **Version**      | Excel 2016+ (compatible with Office 365)       |
 
 ---
@@ -78,16 +78,22 @@ bank-marketing-dashboard/
 ├── dashboard/
 │ ├── Dash Board only.xlsx.xlsx
 │ └── dashboard.png
-└──README.md # You are here LOL , FeelFree Bro
+└──README.md # You are here LOL , Feel Free Bro
 ```
 
 ---
 
 ## Key Insights
 
-- **Job Type**: Students and retired clients have the highest subscription rates.
-- **Seasonality**: March, September, and December see peak subscriptions.
-- **Account Balance**: Clients with medium/high balances (>1000€) are more likely to subscribe; those with debt are least likely.
-- **Contact Method**: Cellular calls outperform telephone contacts by a wide margin.
+- **Top Performing Jobs**: Students and services sector employees show the highest subscription rates.
+- **Peak Seasonality**: May, July, and August record the highest subscription volumes.
+- **Account Balance Impact**: Clients with medium balance are the most likely to subscribe, followed by high-balance clients (>1000€).
+- **Contact Method Efficiency**: Cellular calls significantly outperform telephone contacts in conversion rates.
+- **Conversion Rate**: Overall campaign conversion stands at 11.5%, with average call duration of 4:24 minutes
+
+---
+
+## Connect With Me
+<p align="center"> <a href="https://github.com/3mmar3bdalkber"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/your-profile/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
 
 ---
